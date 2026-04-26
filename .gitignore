@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 LAB_III/solution/data_lab3/
+LAB_III/solution/raw_data/
